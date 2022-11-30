@@ -1,5 +1,3 @@
-[![Syncthing][14]][15]
-
 ---
 
 [![Latest Linux & Cross Build](https://img.shields.io/teamcity/https/build.syncthing.net/s/Syncthing_BuildLinuxCross.svg?style=flat-square&label=linux+%26+cross+build)](https://build.syncthing.net/viewType.html?buildTypeId=Syncthing_BuildLinuxCross&guest=1)
@@ -11,9 +9,9 @@
 
 ## 目标
 
-DecenS是一个**连续文件同步程序**。它同步两台或多台计算机之间的文件。我们努力实现以下目标。目标按重要性顺序列出，最重要的目标是第一个。这是目标列表的摘要版本。
+DecenS 是一个**连续文件同步程序**。它同步两台或多台计算机之间的文件。我们努力实现以下目标。目标按重要性顺序列出，最重要的目标是第一个。这是目标列表的摘要版本。
 
-DecenS应该：
+DecenS 应该：
 
 1. **无数据丢失**
 
@@ -27,7 +25,7 @@ DecenS应该：
 
 3. **易于使用**
 
-DecenS应该是平易近人、易于理解和包容的。
+DecenS 应该是平易近人、易于理解。
 
 4. **高度自动**
 
@@ -35,11 +33,11 @@ DecenS应该是平易近人、易于理解和包容的。
 
 5. **便捷易用**
 
-DecenS应在每台常用计算机上运行。我们注意到最新技术并不总是适用于任何给定的个人。
+DecenS 应在每台常用计算机上运行。我们注意到最新技术并不总是适用于任何给定的个人。
 
 6. **面向个人**
 
-DecenS主要是为个人用户提供安全，且易于使用的文件同步。
+DecenS 主要是为个人用户提供安全，且易于使用的文件同步。
 
 7. **其他**
 
@@ -49,12 +47,12 @@ DecenS主要是为个人用户提供安全，且易于使用的文件同步。
 
 查看 [入门指南][2]。
 
-有几个示例可以保持DecenS在后台运行
-在您的系统上的 [etc 目录][3]。还有几个 [GUI实现][11]适用于Windows，Mac和Linux。
+有几个示例可以保持 DecenS 在后台运行
+在您的系统上的 [etc 目录][3]。还有几个 [GUI实现][11]适用于 Windows, macOS 和 Linux。
 
 ## 文档
 
-请参阅 Syncthing [文档网站][6]。
+请参阅 Decens [文档网站][6]。
 
 所有代码均在 [MPLv2 许可证][7] 下获得许可。
 
